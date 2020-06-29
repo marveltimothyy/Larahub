@@ -1,2 +1,2 @@
 # Larahub
-Tugas ER Diagram
+Tugas ER Diagram dengan menggunakan software ERD PLUS
